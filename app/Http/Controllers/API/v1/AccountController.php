@@ -6,7 +6,7 @@ use App\Models\User;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use App\Http\Requests\API\v1\Auth\RegisterRequest;
-use App\Http\Requests\api\v1\UpdateRequest;
+use App\Http\Requests\API\v1\UpdateRequest;
 
 class AccountController extends Controller
 {
